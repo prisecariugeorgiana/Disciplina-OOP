@@ -1,0 +1,5 @@
+﻿  Number.cpp
+C:\Users\Laptop\source\repos\Pb1_Tema5.OOP\Number.cpp(36,26): error C4996: 'strdup': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _strdup. See online help for details.
+  Pb1_Tema5.OOP.cpp
+C:\Users\Laptop\source\repos\Pb1_Tema5.OOP\Pb1_Tema5.OOP.cpp(30,26): error C4996: 'strdup': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _strdup. See online help for details.
+  Generating Code...
