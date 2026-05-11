@@ -1,0 +1,35 @@
+﻿  Pb1_Tema10.OOP.cpp
+C:\Users\Laptop\source\repos\Pb1_Tema10.OOP\Pb1_Tema10.OOP.cpp(55,9): error C2065: 'retrun': undeclared identifier
+      C:\Users\Laptop\source\repos\Pb1_Tema10.OOP\Pb1_Tema10.OOP.cpp(55,9):
+      the template instantiation context (the oldest one first) is
+          C:\Users\Laptop\source\repos\Pb1_Tema10.OOP\Pb1_Tema10.OOP.cpp(29,7):
+          while compiling class template 'ArrayIterator'
+  
+C:\Users\Laptop\source\repos\Pb1_Tema10.OOP\Pb1_Tema10.OOP.cpp(55,16): error C3878: syntax error: unexpected token 'this' following 'id-expression'
+C:\Users\Laptop\source\repos\Pb1_Tema10.OOP\Pb1_Tema10.OOP.cpp(83,9): error C2760: syntax error: '}' was unexpected here; expected ';'
+      C:\Users\Laptop\source\repos\Pb1_Tema10.OOP\Pb1_Tema10.OOP.cpp(83,9):
+      the template instantiation context (the oldest one first) is
+          C:\Users\Laptop\source\repos\Pb1_Tema10.OOP\Pb1_Tema10.OOP.cpp(65,7):
+          while compiling class template 'Array'
+  
+C:\Users\Laptop\source\repos\Pb1_Tema10.OOP\Pb1_Tema10.OOP.cpp(89,9): error C3878: syntax error: unexpected token 'this' following 'expression'
+C:\Users\Laptop\source\repos\Pb1_Tema10.OOP\Pb1_Tema10.OOP.cpp(89,36): error C2760: syntax error: ']' was unexpected here; expected ';'
+C:\Users\Laptop\source\repos\Pb1_Tema10.OOP\Pb1_Tema10.OOP.cpp(89,36): error C3878: syntax error: unexpected token ']' following 'expression-statement'
+C:\Users\Laptop\source\repos\Pb1_Tema10.OOP\Pb1_Tema10.OOP.cpp(97,36): error C3329: syntax error: expected 'identifier' not ')'
+C:\Users\Laptop\source\repos\Pb1_Tema10.OOP\Pb1_Tema10.OOP.cpp(106,23): error C2187: syntax error: 'OutofMemory' was unexpected here
+C:\Users\Laptop\source\repos\Pb1_Tema10.OOP\Pb1_Tema10.OOP.cpp(106,34): error C3878: syntax error: unexpected token '(' following 'expression'
+C:\Users\Laptop\source\repos\Pb1_Tema10.OOP\Pb1_Tema10.OOP.cpp(106,35): error C2760: syntax error: ')' was unexpected here; expected ';'
+C:\Users\Laptop\source\repos\Pb1_Tema10.OOP\Pb1_Tema10.OOP.cpp(106,35): error C3878: syntax error: unexpected token ')' following 'expression-statement'
+C:\Users\Laptop\source\repos\Pb1_Tema10.OOP\Pb1_Tema10.OOP.cpp(106,35): error C3878: syntax error: unexpected token ')' following 'statement'
+C:\Users\Laptop\source\repos\Pb1_Tema10.OOP\Pb1_Tema10.OOP.cpp(106,35): error C3878: syntax error: unexpected token ')' following 'statement-seq'
+      C:\Users\Laptop\source\repos\Pb1_Tema10.OOP\Pb1_Tema10.OOP.cpp(106,35):
+      missing one of:  '}' ?
+  
+C:\Users\Laptop\source\repos\Pb1_Tema10.OOP\Pb1_Tema10.OOP.cpp(106,35): error C2760: syntax error: ')' was unexpected here; expected '}'
+C:\Users\Laptop\source\repos\Pb1_Tema10.OOP\Pb1_Tema10.OOP.cpp(106,35): error C3878: syntax error: unexpected token ')' following 'compound-statement'
+C:\Users\Laptop\source\repos\Pb1_Tema10.OOP\Pb1_Tema10.OOP.cpp(106,35): error C3878: syntax error: unexpected token ')' following 'selection-statement'
+C:\Users\Laptop\source\repos\Pb1_Tema10.OOP\Pb1_Tema10.OOP.cpp(119,9): error C2065: 'retrun': undeclared identifier
+C:\Users\Laptop\source\repos\Pb1_Tema10.OOP\Pb1_Tema10.OOP.cpp(119,16): error C3878: syntax error: unexpected token 'this' following 'id-expression'
+C:\Users\Laptop\source\repos\Pb1_Tema10.OOP\Pb1_Tema10.OOP.cpp(162,17): error C2760: syntax error: ')' was unexpected here; expected 'condition'
+C:\Users\Laptop\source\repos\Pb1_Tema10.OOP\Pb1_Tema10.OOP.cpp(162,17): error C2760: syntax error: ')' was unexpected here; expected ';'
+C:\Users\Laptop\source\repos\Pb1_Tema10.OOP\Pb1_Tema10.OOP.cpp(163,5): error C2760: syntax error: '}' was unexpected here; expected 'statement'
