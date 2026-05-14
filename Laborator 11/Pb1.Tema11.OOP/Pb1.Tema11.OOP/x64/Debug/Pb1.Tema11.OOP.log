@@ -1,0 +1,12 @@
+﻿  Pb1.Tema11.OOP.cpp
+C:\Users\Laptop\source\repos\Pb1.Tema11.OOP\Pb1.Tema11.OOP.cpp(24,22): warning C4838: conversion from 'double' to 'int' requires a narrowing conversion
+C:\Users\Laptop\source\repos\Pb1.Tema11.OOP\Pb1.Tema11.OOP.cpp(24,22): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\Laptop\source\repos\Pb1.Tema11.OOP\Pb1.Tema11.OOP.cpp(24,27): warning C4838: conversion from 'double' to 'int' requires a narrowing conversion
+C:\Users\Laptop\source\repos\Pb1.Tema11.OOP\Pb1.Tema11.OOP.cpp(24,27): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\Laptop\source\repos\Pb1.Tema11.OOP\Pb1.Tema11.OOP.cpp(24,32): warning C4838: conversion from 'double' to 'int' requires a narrowing conversion
+C:\Users\Laptop\source\repos\Pb1.Tema11.OOP\Pb1.Tema11.OOP.cpp(24,32): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\Laptop\source\repos\Pb1.Tema11.OOP\Pb1.Tema11.OOP.cpp(24,37): warning C4838: conversion from 'double' to 'int' requires a narrowing conversion
+C:\Users\Laptop\source\repos\Pb1.Tema11.OOP\Pb1.Tema11.OOP.cpp(24,37): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\Laptop\source\repos\Pb1.Tema11.OOP\Pb1.Tema11.OOP.cpp(24,42): warning C4838: conversion from 'double' to 'int' requires a narrowing conversion
+C:\Users\Laptop\source\repos\Pb1.Tema11.OOP\Pb1.Tema11.OOP.cpp(24,42): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  Pb1.Tema11.OOP.vcxproj -> C:\Users\Laptop\source\repos\Pb1.Tema11.OOP\x64\Debug\Pb1.Tema11.OOP.exe
